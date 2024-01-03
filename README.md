@@ -10,5 +10,4 @@ Ardently involved in Creating Data Model, Implemented Data Transformations and C
 
 PBIX FILE LINK: https://drive.google.com/file/d/1RHpc6bBr61YqawOcMT9GQ993YlTzROhf/view?usp=sharing
 
-PDF LINK:https://drive.google.com/file/d/1hTZNGUBMMMnj2nSrOoAcgU8y7wfAA6J3/view?usp=drive_link
-
+PDF LINK:https://drive.google.com/file/d/1hTZNGUBMMMnj2nSrOoAcgU8y7wfAA6J3/view?usp=sharing
